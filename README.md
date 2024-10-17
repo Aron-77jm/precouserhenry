@@ -1,2 +1,2 @@
-# precouserhenry
-este es un repositorio del modulo2 del precouser del henry
+este es un proyecto de prueba de como crear un repositorio y como clonarlo
+
